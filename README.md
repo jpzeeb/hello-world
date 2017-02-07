@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Josh. I did codes once. So check me out!
